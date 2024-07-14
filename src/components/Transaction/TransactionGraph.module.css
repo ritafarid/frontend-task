@@ -1,0 +1,14 @@
+table{
+    margin: auto;
+    
+    font-size: larger;
+   border-radius: 20px;
+    margin-top: 200px;
+}
+th{
+    padding: 6px;
+}
+td{
+    border-bottom: 1px;
+    padding: 5px;
+}

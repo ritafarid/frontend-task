@@ -1,0 +1,19 @@
+body{
+    background-color: bisque;
+    color: black;
+
+}
+table{
+    margin: auto;
+    
+    font-size: larger;
+   border-radius: 20px;
+    margin-top: 200px;
+}
+th{
+    padding: 5px;
+}
+td{
+    border-bottom: 1px;
+    padding: 5px;
+}
